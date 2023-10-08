@@ -4,6 +4,10 @@
 
 Welcome to the Electronic Store! This e-commerce platform allows users to browse and purchase a wide range of electronic products. This README.md file provides an overview of the project, its features, and instructions for running it locally.
 
+## Project Links
+
+* Github- [Electronic Store on GitHub](https://github.com/saurabhkumarr99/Electronic-Store)
+* Live Website- [Go to Live Electronic Store Website](https://saurabhkumarr99.github.io/Host-Electronic-Store/)
 
 ## Table of Contents
 

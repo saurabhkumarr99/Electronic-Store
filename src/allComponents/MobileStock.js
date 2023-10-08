@@ -30,7 +30,7 @@ const MobileShop = () => {
                             alt="Laptop 1"
                         />
                         <div className="card-body text-center">
-                            <h5 className="card-title">Laptop (&lt; 2 Lakh)</h5>
+                            <h5 className="card-title">Mobile</h5>
                             <p className="card-text">Available Mobiles:  {mobileStock}</p>
                             <p className="card-text">Orders: {mobileOrders}</p>
                             <button onClick={handleMobileOrder} className="btn btn-primary">
